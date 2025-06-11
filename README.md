@@ -1,4 +1,4 @@
-# Proyecto-Modelo-predictivo-de-retenci-n-y-captaci-n-de-talento
+# Proyecto-Modelo-predictivo-de-retencion-y-captacion-de-talento
 Este es un proyecto realizado para crear el mejor modelo predictivo de retencion y captacion de talento para una empresa.
 
 .En el archivo DataLimpio encontramos la data luego de realizar el proceso de limpieza
