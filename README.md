@@ -8,3 +8,5 @@ Este es un proyecto realizado para crear el mejor modelo predictivo de retencion
 .En el archivo Proyecto Final Dashboard encontramos un Dashboard realizado para la exploración de datos y obtener distintas relaciónes importantes
 
 .En el archivo Modelo predictivo de retención y captación de talento se puede Apreciar una presentación de lo realizado en el proyecto en un Canva
+
+.He realizado los distintos modelos de prueba pero he decidido guardar los resultados en la presentación
